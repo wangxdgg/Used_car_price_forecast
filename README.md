@@ -1,4 +1,4 @@
-**# 赛题名称：二手车交易价格预测**
+# ** 赛题名称：二手车交易价格预测**
 
 **赛题地址**：https://tianchi.aliyun.com/competition/entrance/231784/introduction?spm=5176.12281957.1004.1.38b02448ausjSX
 
@@ -32,7 +32,3 @@
 
 **本赛题的评价标准为MAE(Mean Absolute Error):**
 
-$$
-MAE=\frac{\sum_{i=1}^{n}\left|y_{i}-\hat{y}_{i}\right|}{n}
-$$
-其中$y_{i}$代表第$i$个样本的真实值，其中$\hat{y}_{i}$代表第$i$个样本的预测值。
