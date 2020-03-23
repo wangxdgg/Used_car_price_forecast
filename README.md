@@ -1,4 +1,4 @@
-# ** 赛题名称：二手车交易价格预测**
+#  赛题名称：二手车交易价格预测
 
 **赛题地址**：https://tianchi.aliyun.com/competition/entrance/231784/introduction?spm=5176.12281957.1004.1.38b02448ausjSX
 
