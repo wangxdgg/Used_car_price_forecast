@@ -30,5 +30,5 @@
 
 ---
 
-**本赛题的评价标准为MAE(Mean Absolute Error):**
+**本赛题的评价标准为MAE(Mean Absolute Error)**
 
